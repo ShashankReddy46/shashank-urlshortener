@@ -53,7 +53,7 @@ const Home = () => {
               marginTop: "1rem",
             }}
           >
-            shorten url
+            shashank url shortener
           </Title>
 
           <Text
